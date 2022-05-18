@@ -1,7 +1,6 @@
 ### Olá, eu sou Valdir Júnior 👋
 
 - 🌱 Estudante de Engenharia de Dados
-- 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Aficionado por tecnologia
 
 <div align="center">
