@@ -1,7 +1,7 @@
 ### Olá, eu sou Valdir Júnior 👋
 
 - 🌱 Estudante de Engenharia de Dados
-- ⚡ Fun fact: Aficionado por tecnologia
+- ⚡ Aficionado por tecnologia!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/valdirjr01">
